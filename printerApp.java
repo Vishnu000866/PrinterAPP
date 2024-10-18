@@ -18,6 +18,8 @@ public class printerApp {
        multiplication=number1*number2;
        System.out.println("The multiplication is: "+multiplication);
        System.out.println(number1+" * "+number2+" = "+multiplication);
-
+       int addition;
+       int substraction;
+       double division;
     }
 }

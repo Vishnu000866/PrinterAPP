@@ -21,5 +21,11 @@ public class printerApp {
        int addition;
        int substraction;
        double division;
+       addition= number1+number2;
+       System.out.println(number1+" + "+ number2+" = "+addition);
+       substraction=number1-number2;
+       System.out.println(number1+" - "+ number2+" = "+substraction);
+       division=(double)number1/number2;
+       System.out.println(number1+" / "+ number2+" = "+division);
     }
 }
